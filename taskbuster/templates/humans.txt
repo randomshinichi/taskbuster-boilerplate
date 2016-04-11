@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Chiw -- Developer -- <twitter>
 
 # THANKS
 
-    <name>
+    Thanks to Marina Mele for the taskbuster django tutorial
 
 # TECHNOLOGY COLOPHON
-
+	Django
     HTML5, CSS3
     jQuery, Modernizr
